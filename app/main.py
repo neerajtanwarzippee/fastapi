@@ -10,7 +10,7 @@ models.Base.metadata.create_all(bind=engine)
 
 conf = ConnectionConfig(
     MAIL_USERNAME="neerajtanwar17@gmail.com",
-    MAIL_PASSWORD="ddwz volb ztld iuou",
+    MAIL_PASSWORD="ddwz volb",
     MAIL_FROM="neerajtanwar17@gmail.com",
     MAIL_PORT=465,
     MAIL_SERVER="smtp.gmail.com",
